@@ -1,5 +1,7 @@
 # Adfocus-Money-Maker
 
+Generates links and clicks them, all optimized for Maximum Speed and Earnings!
+
 ## Requirements
 
 ### System Requirements
